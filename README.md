@@ -39,19 +39,10 @@
 ---
 
 ## 🚀 Featured Projects
-
-### 📚 Student Database Management System
-- C++
-- OOP Concepts
-- MySQL Database
-
-### ✅ To-Do List Manager
-- C++
-- File Handling
-
-### 🔐 Password Security Suite
-- Encryption
-- Authentication
+.
+.
+.
+.
 
 ### 📖 DSA Practice Repository
 - LeetCode Solutions
