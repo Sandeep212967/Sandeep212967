@@ -62,7 +62,7 @@
 
 ## 🌐 Connect with Me
 
-- 📧 Email: your-Sandeepkushwaha959273@gmail.com
+- 📧 Email: Sandeepkushwaha959273@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/sandeep-kushwaha-aa82aa275
 - 📺 YouTube: https://youtube.com/@edtechxplain67
 
