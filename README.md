@@ -1,3 +1,9 @@
+## 📅 Visitor Count
+
+![](https://komarev.com/ghpvc/?username=Sandeep212967&color=blue)
+
+---
+
 # Hi 👋, I'm Sandeep Kushwaha
 
 ### 🚀 2nd Year Computer Science Engineering Student | C++ | Python | DSA | Open Source Learner
@@ -74,11 +80,6 @@
 
 ---
 
-## 📅 Visitor Count
-
-![](https://komarev.com/ghpvc/?username=Sandeep212967&color=blue)
-
----
 
 ### 💡 Quote
 
