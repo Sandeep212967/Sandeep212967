@@ -1,5 +1,19 @@
 # Hi 👋, I'm Sandeep Kushwaha
 
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:Sandeepkushwaha959273@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/sandeep-kushwaha-aa82aa275">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@edtechxplain67">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
 ### Aspiring Software Development Engineer | C++ | Python | DSA | Web Development
 
 <p align="center">
@@ -111,22 +125,6 @@ Currently focusing on:
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sandeep212967&theme=onedark&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="mailto:Sandeepkushwaha959273@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sandeep-kushwaha-aa82aa275">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@edtechxplain67">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
 ---
