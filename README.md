@@ -1,138 +1,144 @@
-# Hi 👋, I'm Sandeep Kushwaha
+<!-- ═══════════════ HEADER ═══════════════ -->
 
-## 🌐 Connect With Me
+<div align="center">
 
-<p align="left">
-  <a href="mailto:Sandeepkushwaha959273@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/sandeep-kushwaha-aa82aa275">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@edtechxplain67">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sandeep%20Kushwaha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20in%20Progress&descAlignY=55&descSize=17" width="100%" alt="Sandeep Kushwaha - Developer Header"/>
 
-### Aspiring Software Development Engineer | C++ | Python | DSA | Web Development
+<a href="https://github.com/Sandeep212967">
+  <img src="https://img.shields.io/badge/GitHub-Sandeep212967-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+<a href="mailto:Sandeepkushwaha959273@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep"/>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Development+Engineer;C%2B%2B+%7C+Python+%7C+JavaScript;Data+Structures+%26+Algorithms;Building+Projects+%26+Learning+Every+Day;Exploring+Open+Source" />
-</p>
+**Building projects. Solving problems. Growing every day.**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandeep212967&label=Profile%20Views&color=00C4FF&style=flat" />
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## `$ Who am I `
 
-I'm a **2nd-year Computer Science & Engineering student** focused on building a strong foundation in software development, problem solving, and modern web technologies.
+```text
+Name       : Sandeep Kushwaha
+Role       : B.Tech CSE Student
+Focus      : Software Development & DSA
+Learning   : C++, Python, Web Development
+Looking for: Software Development Internships
+```
 
-* 🎓 B.Tech in Computer Science & Engineering
-* 💻 Practicing **Data Structures & Algorithms**
-* 🚀 Developing projects using **C++, Python & JavaScript**
-* 🌐 Exploring **Frontend & Full-Stack Development**
-* 🔧 Learning Git, GitHub and collaborative development
-* 🌱 Interested in **Software Engineering, Open Source & AI**
-* 🎯 Aspiring to become a **Software Development Engineer**
-* 🎥 YouTube Creator at **EdtechXplain**
+I'm a Computer Science Engineering student who enjoys exploring technology and building practical applications. My current focus is strengthening problem-solving skills, learning development tools, and creating projects that turn ideas into working software.
 
----
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,git,github,vscode" />
-</p>
+- 🔭 Working on personal development projects
+- 🌱 Learning Data Structures & Algorithms
+- 💡 Interested in software engineering and web technologies
+- 🤝 Open to internships and collaborative projects
 
 ---
 
-## 🚀 Featured Projects
+## `$ tech-stack --list`
 
-### 🔹 Real-Time Collaborative Code Editor
+<div align="center">
 
-A collaborative coding platform designed to allow multiple users to write and work on code together in real time.
+**Languages**
 
-**Focus:** Real-time collaboration • Code editing • Web Development
+<img src="https://skillicons.dev/icons?i=cpp,python,js&theme=dark" alt="C++, Python and JavaScript" />
 
----
+**Web Development**
 
-### 🔹 Smart Student Portal
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="HTML, CSS, React and Node.js" />
 
-A student-focused platform designed to bring useful academic resources and student utilities together in one place.
+**Tools**
 
-**Focus:** Student Productivity • Web Development • Smart Education
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code" />
 
----
-
-### 🔹 Weather Website
-
-A responsive weather application that fetches real-time weather information using a weather API.
-
-**Focus:** JavaScript • API Integration • Responsive Web Design
+</div>
 
 ---
 
-## 📚 DSA & Problem Solving
+## `$ ls ./projects`
 
-Currently focusing on:
+### 🌦️ Weather Application
 
-* Arrays
-* Strings
-* Searching & Sorting
-* Recursion
-* Linked Lists
-* Stacks & Queues
-* Trees
-* Basic Algorithms
-* Competitive Programming fundamentals
+A web application for checking weather information through a simple user interface.
 
-**Practice:** LeetCode • GeeksforGeeks
+| Resource | Link |
+|:--|:--|
+| 🌐 Live Website | [Open Weather App](https://sandeep212967.github.io/Weather-Application/) |
+| 💻 Source Code | [View GitHub Repository](https://github.com/Sandeep212967/Weather-Application) |
+
+**Project focus:** Web development, user interface design, and working with weather data.
 
 ---
 
-## 📈 Current Goals
+## `$ coding-profiles --open`
 
-* 🎯 Solve **300+ DSA problems**
-* 💡 Strengthen C++ fundamentals
-* 🐍 Improve Python development skills
-* 🌐 Build full-stack applications
-* 🤝 Contribute to Open Source
-* 🚀 Build production-oriented projects
-* 💼 Prepare for Software Development Engineer internships
+<div align="center">
 
----
+<a href="https://leetcode.com/u/Sandeep212967/">
+  <img src="https://img.shields.io/badge/LeetCode-Practice%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
 
-## 📊 GitHub Stats
+<a href="https://www.geeksforgeeks.org/profile/sandeepkushejfj?tab=overview">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
+</a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep212967&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandeep212967&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep212967&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+## `$ git-stats --username Sandeep212967`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sandeep212967&theme=onedark&no-frame=true&margin-w=10" />
-</p>
+<div align="center">
+
+<a href="https://github.com/Sandeep212967">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandeep212967&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/Sandeep212967">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandeep212967&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Sandeep212967&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak"/>
+
+</div>
 
 ---
 
-## 💡 Developer Mindset
+## `$ contributions --year`
 
-> **Code. Learn. Build. Improve. Repeat.**
+<div align="center">
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+<img src="https://ghchart.rshah.org/22c55e/Sandeep212967" width="100%" alt="GitHub contribution history"/>
+
+</div>
+
+---
+
+## `$ connect --with Sandeep`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sandeep-kushwaha-aa82aa275/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="mailto:Sandeepkushwaha959273@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"/>
+</a>
+
+<a href="https://github.com/Sandeep212967">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+</a>
+
+<br/><br/>
+
+*“The best way to learn software development is to build, break, debug, and build again.”*
+
+**Thanks for visiting my profile! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%" alt="Footer"/>
+
+</div>
